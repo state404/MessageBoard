@@ -1,0 +1,4 @@
+@charset 'utf-8';
+.container {width:60%; margin:0 auto;}
+.button {display:inline-block; width:80px; height:30px; background-color:gray; text-align:center;color:white; text-decoration:none;}
+.item {margin-bottom:20px;}
